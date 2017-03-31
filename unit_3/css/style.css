@@ -1,0 +1,44 @@
+* {
+	padding:0;
+	margin:0;
+
+}
+body{
+	font-family: San-serif;
+	font-size:20px;
+	color:#706F70;
+	line-height:1.3;
+}
+header{
+	padding:20px;
+	background-color: #95E6F1;
+
+}
+h1{
+	text-align:center;
+}
+a{
+text-align:center;
+padding:20px;
+margin:0;
+color:inherit;
+}
+nav {text-align: center;
+font-style:italic;}
+
+image{
+	background-size: cover;
+}
+
+
+h3{
+	font-size:bold;
+	text-align:left;
+
+}
+
+footer{
+	background-color: #95E6F1;
+	padding: 20px;
+	text-align: center;
+}
