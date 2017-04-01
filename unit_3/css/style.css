@@ -17,6 +17,12 @@ header{
 h1{
 	text-align:center;
 }
+
+p{
+	text-align:center;
+	color:#706F70;
+	font-style:bold;
+}
 a{
 text-align:center;
 padding:20px;
@@ -24,14 +30,16 @@ margin:0;
 color:inherit;
 }
 nav {text-align: center;
-font-style:italic;}
+font-style:italic;
+text-decoration: none;
+}
 
 image{
 	width: 100%;
 }
 
 
-h3{
+p{
 	font-size:bold;
 	text-align: left;
 
