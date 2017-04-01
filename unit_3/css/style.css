@@ -27,13 +27,13 @@ nav {text-align: center;
 font-style:italic;}
 
 image{
-	background-size: cover;
+	width: 100%;
 }
 
 
 h3{
 	font-size:bold;
-	text-align:left;
+	text-align: left;
 
 }
 
