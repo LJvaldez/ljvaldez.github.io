@@ -4,6 +4,8 @@
 
 }
 body{
+	background-image: url('images/woodesk.jpg');
+	background-size: cover;
 	font-family: San-serif;
 	font-size:20px;
 	color:#706F70;
@@ -33,11 +35,6 @@ nav {text-align: center;
 font-style:italic;
 text-decoration: none;
 }
-
-image{
-	width: 100%;
-}
-
 
 p{
 	font-size:bold;
