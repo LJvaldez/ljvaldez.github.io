@@ -4,8 +4,6 @@
 
 }
 body{
-	background-image: "images/woodesk.jpg";
-	background-size: cover;
 	font-family: San-serif;
 	font-size:20px;
 	color:#706F70;
@@ -34,6 +32,10 @@ color:inherit;
 nav {text-align: center;
 font-style:italic;
 text-decoration: none;
+}
+section img{
+	background: "images/woodesk.jpg";
+	background-size: cover;
 }
 
 p{
