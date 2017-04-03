@@ -4,7 +4,7 @@
 
 }
 body{
-	background-image: 'images/woodesk.jpg';
+	background-image: "images/woodesk.jpg";
 	background-size: cover;
 	font-family: San-serif;
 	font-size:20px;
@@ -38,7 +38,7 @@ text-decoration: none;
 
 p{
 	font-size:bold;
-	text-align: left;
+	text-align: center;
 
 }
 
