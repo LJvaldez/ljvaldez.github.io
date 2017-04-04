@@ -6,12 +6,14 @@
 body{
 	font-family: San-serif;
 	font-size:20px;
-	color:#706F70;
+	color:#F4E1F8;
 	line-height:1.3;
+	background: url("..//images/woodesk.jpg");
+	background-size: 100%;
 }
 header{
 	padding:20px;
-	background-color: #95E6F1;
+	background-color: #31876D;
 
 }
 h1{
@@ -20,7 +22,7 @@ h1{
 
 p{
 	text-align:center;
-	color:#706F70;
+	color:#F4E1F8;
 	font-style:bold;
 }
 a{
@@ -33,19 +35,16 @@ nav {text-align: center;
 font-style:italic;
 text-decoration: none;
 }
-section img{
-	background-image: url(..//"images/woodesk.jpg");
-	background-size: cover;
+
+h3{
+	color:#F4E1F8;
 }
-
-p{
-	font-size:bold;
-	text-align: center;
-
+section a{
+	color:#F4E1F8;
 }
 
 footer{
-	background-color: #95E6F1;
+	background-color: #31876D;
 	padding: 20px;
 	text-align: center;
 }
