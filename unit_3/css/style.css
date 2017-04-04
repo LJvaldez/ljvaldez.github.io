@@ -34,7 +34,7 @@ font-style:italic;
 text-decoration: none;
 }
 section img{
-	background: "images/woodesk.jpg";
+	background-image: url(..//"images/woodesk.jpg");
 	background-size: cover;
 }
 
