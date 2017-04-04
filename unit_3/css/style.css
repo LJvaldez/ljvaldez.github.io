@@ -45,9 +45,12 @@ section a{
 	color:#F4E1F8;
 	text-decoration: none;
 	font-style:italic;
-	text-align: center;
+	
 	font-size: 25px;
 
+}
+section ul{
+	padding-left: 20px;
 }
 
 footer{
