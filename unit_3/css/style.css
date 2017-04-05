@@ -44,7 +44,7 @@ color:inherit;
 
 
 
-h3{
+h2{
 	color:#F4E1F8;
 	text-align: center;
 	padding:20px;
@@ -60,8 +60,12 @@ a{
 
 }
 
-h5{
-	margin: 125px;	
+h3{
+	margin-top: 250px;
+	margin-bottom: 10px;
+	padding-left: 20px
+
+
 }
 ul{
 	padding: 20px;
@@ -73,10 +77,13 @@ ul{
 #second {
 	font-style: italic;
 	text-align: center;
+
 	
 }
 footer{
-	font-size: 15px;
-	text-align: center;
+	font-size: 10px;
+	padding-top: 10px;
+	padding-left: 20px;
+	text-align: left;
 	position:fixed;bottom:0;left:0;right:0;height:30px;
 }
