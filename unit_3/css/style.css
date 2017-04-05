@@ -60,9 +60,10 @@ a{
 
 }
 
-.block{
+.services{
 	padding-top: 20px;
 	margin:125px;
+	
 	
 }
 ul{
@@ -72,7 +73,7 @@ ul{
 	
 }
 
-#second{
+#second {
 	font-style: italic;
 	text-align: center;
 	
