@@ -83,8 +83,10 @@ h3{
 
 	padding-left: 0px
 	font-family: 'Lateef', cursive;
-	font-size: 15px;
-
+	font-size: 18px;
+}
+h3 p{
+	font-size: 5px;
 }
 
 #second {
