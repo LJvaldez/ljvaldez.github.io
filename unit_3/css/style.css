@@ -1,3 +1,9 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great');
+@import url('https://fonts.googleapis.com/css?family=Lateef');
+
+
 * {
 	padding:0;
 	margin:0;
@@ -12,19 +18,23 @@ body{
 	background-size: 100%;
 	
 }
-header{
+header nav{
 	
 	background-color: #31876D;
+	font-family: 'Fredericka the Great', cursive;
+	padding-left: 400px;
 
 
 }
 h1{
 	text-align:center;
+	font-family: 'Fredericka the Great', cursive;
+
 }
-.nav{
+nav a{
 text-align: center;	
-font-style:italic;
-font-size: 25px;
+
+font-size: 15px;
 
 }
 a{
@@ -33,24 +43,33 @@ padding:20px;
 margin:0;
 color:inherit;
 }
-
+#intro{
+	padding-left: 20px;
+}
 
 #first{
 	text-align:center;
 	color:#F4E1F8;
+	padding-left: 20px;
 	
-
 }
-
-
 
 h2{
 	color:#F4E1F8;
 	text-align: center;
-	padding:20px;
+	margin-bottom: 5px;
 	font-style: italic;
-}
+	font-family: 'Lateef', cursive;
 
+
+}
+#services {
+	text-align: left;
+	padding: 20px;
+}
+#services h2{
+	text-align: left;
+}
  
 a{
 	color:#F4E1F8;
@@ -61,17 +80,11 @@ a{
 }
 
 h3{
-	margin-top: 250px;
-	margin-bottom: 10px;
-	padding-left: 20px
 
-
-}
-ul{
-	padding: 20px;
+	padding-left: 0px
+	font-family: 'Lateef', cursive;
 	font-size: 15px;
-	list-style-position: inside;
-	
+
 }
 
 #second {
